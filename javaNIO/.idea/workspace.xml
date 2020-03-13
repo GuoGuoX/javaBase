@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7d82f2c-52ee-48af-bb6c-68fbaaa991bd" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="javaNIO" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/IDEA-maven-3.3.9" />
+        <option name="userSettingsFile" value="E:\IDEA-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="805" />
+    <option name="y" value="140" />
+    <option name="width" value="1105" />
+    <option name="height" value="834" />
+  </component>
+  <component name="ProjectId" id="1Z4s9XhwvCEVbKeZCuFp08X7RaO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEA\javaNIO" />
+      <recent name="D:\IDEA\javaNIO\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="NIO" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEA\javaNIO" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestNonBlockingNIO.client">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNonBlockingNIO2.client" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaNIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NIO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="NIO" />
+      <option name="MAIN_CLASS_NAME" value="NIO.TestNonBlockingNIO2" />
+      <option name="METHOD_NAME" value="client" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNonBlockingNIO.client" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaNIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NIO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="NIO" />
+      <option name="MAIN_CLASS_NAME" value="NIO.TestNonBlockingNIO" />
+      <option name="METHOD_NAME" value="client" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNonBlockingNIO.server" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaNIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NIO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="NIO" />
+      <option name="MAIN_CLASS_NAME" value="NIO.TestNonBlockingNIO" />
+      <option name="METHOD_NAME" value="server" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPipe" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaNIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NIO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="NIO" />
+      <option name="MAIN_CLASS_NAME" value="NIO.TestPipe" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPipe.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaNIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NIO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="NIO" />
+      <option name="MAIN_CLASS_NAME" value="NIO.TestPipe" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.TestNonBlockingNIO2.client" />
+      <item itemvalue="JUnit.TestPipe.test01" />
+      <item itemvalue="JUnit.TestPipe" />
+      <item itemvalue="JUnit.TestNonBlockingNIO.server" />
+      <item itemvalue="JUnit.TestNonBlockingNIO.client" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestNonBlockingNIO.client" />
+        <item itemvalue="JUnit.TestNonBlockingNIO.server" />
+        <item itemvalue="JUnit.TestPipe" />
+        <item itemvalue="JUnit.TestPipe.test01" />
+        <item itemvalue="JUnit.TestNonBlockingNIO2.client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7d82f2c-52ee-48af-bb6c-68fbaaa991bd" name="Default" comment="" />
+      <created>1582729051576</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582729051576</updated>
+      <workItem from="1584109551451" duration="1009000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestPipe - 2020.02.29 at 15h 12m 12s.xml">
+      <configuration name="TestPipe" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestPipe - 2020.02.29 at 15h 12m 25s.xml">
+      <configuration name="TestPipe" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestPipe - 2020.02.29 at 15h 13m 30s.xml">
+      <configuration name="TestPipe" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestPipe - 2020.02.29 at 15h 13m 35s.xml">
+      <configuration name="TestPipe" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestNonBlockingNIO_client - 2020.02.29 at 15h 20m 31s.xml">
+      <configuration name="TestNonBlockingNIO.client" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestNonBlockingNIO_server - 2020.02.29 at 15h 20m 31s.xml">
+      <configuration name="TestNonBlockingNIO.server" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestNonBlockingNIO_client - 2020.02.29 at 15h 20m 36s.xml">
+      <configuration name="TestNonBlockingNIO.client" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestNonBlockingNIO_client - 2020.02.29 at 15h 20m 43s.xml">
+      <configuration name="TestNonBlockingNIO.client" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestNonBlockingNIO_client - 2020.02.29 at 15h 22m 12s.xml">
+      <configuration name="TestNonBlockingNIO.client" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestNonBlockingNIO_server - 2020.02.29 at 15h 22m 13s.xml">
+      <configuration name="TestNonBlockingNIO.server" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>javaNIO</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

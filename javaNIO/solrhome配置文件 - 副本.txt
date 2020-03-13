@@ -1,0 +1,10 @@
+<solr>
+
+  <solrcloud>
+    <str name="host">192.168.25.130</str>
+    <int name="hostPort">8180</int>
+    <str name="hostContext">${hostContext:solr}</str>
+    <int name="zkClientTimeout">${zkClientTimeout:30000}</int>
+    <bool name="genericCoreNodeNames">${genericCoreNodeNames:true}</bool>
+  </solrcloud>
+
